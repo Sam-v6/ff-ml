@@ -10,6 +10,7 @@ Author: Syam Evani
 # Base imports
 from urllib.request import urlopen
 import time
+import os
 
 # General imports
 from bs4 import BeautifulSoup
@@ -33,7 +34,6 @@ def get_defense_data(years):
         yearly_df = pd.DataFrame()  # Initialize a DataFrame for each year
 
         for position in positions:
-            time.sleep(20)  # Wait for 5 seconds before making the next request
 
             # Form the full URL and get the soup
             url = url_template.format(year=year, position=position)
@@ -82,6 +82,4 @@ def get_defense_data(years):
 
     # Display the final DataFrame
     # After processing all the data and creating the final nfl_df DataFrame
-    nfl_df.to_csv('nfl_fantasy_points.csv', index=False)
-
-get_defense_data([2021, 2022, 2023])
+    nfl_df.to_csv(os.path.join(os.getenv('USERPROFILE'),'repos','ff-ml','input','defense_data.csv'), index=False)
