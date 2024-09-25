@@ -62,12 +62,12 @@ seasons = [2021, 2022, 2023]
 # Generate datasets
 if GENERATE_DATA:
     offense_data = nfl.import_weekly_data(seasons, downcast=True)
-    offense_data.to_csv(os.path.join(os.getenv('USERPROFILE'),'repos','ff-ml','input','offense_data.csv'), index=False)
+    offense_data.to_csv(os.path.join(os.getenv('HOME'),'repos','ff-ml','input','offense_data.csv'), index=False)
     get_defense_data(seasons)
 
 # Load data
-offense_data = pd.read_csv(os.path.join(os.getenv('USERPROFILE'),'repos','ff-ml','input','offense_data.csv'))
-defense_data = pd.read_csv(os.path.join(os.getenv('USERPROFILE'),'repos','ff-ml','input','defense_data.csv'))
+offense_data = pd.read_csv(os.path.join(os.getenv('HOME'),'repos','ff-ml','input','offense_data.csv'))
+defense_data = pd.read_csv(os.path.join(os.getenv('HOME'),'repos','ff-ml','input','defense_data.csv'))
 
 # Filter the DataFrame for the specific player across all seasons and weeks
 player_data = offense_data.loc[(offense_data['player_display_name'] == player_display_name) & (offense_data['season'].isin(seasons))]
@@ -226,14 +226,14 @@ for regressor in results:
     plt.xlabel("Actual Points")
     plt.ylabel("Predicted Points")
     plt.title(f"Predictions vs Actual for {regressor} with MSE: {"{:.5f}".format(min_mse)}")
-    plt.savefig(os.path.join(os.getenv('USERPROFILE'), 'repos', 'ff-ml', 'output', 'regressors', regressor + '.png'))
+    plt.savefig(os.path.join(os.getenv('HOME'), 'repos', 'ff-ml', 'output', 'regressors', regressor + '.png'))
     plt.close()
 
 #--------------------------------------------------------------------
 # Output summary table for various techniques
 #--------------------------------------------------------------------
 # Write the table to a text file
-output_file = os.path.join(os.getenv('USERPROFILE'), 'repos', 'ff-ml', 'output', 'regressors', 'regressor_results.txt')
+output_file = os.path.join(os.getenv('HOME'), 'repos', 'ff-ml', 'output', 'regressors', 'regressor_results.txt')
 with open(output_file, 'w') as f:
     f.write(f"{'Regressor':<20} {'MSE':<20}\n")
     f.write("="*60 + "\n")
