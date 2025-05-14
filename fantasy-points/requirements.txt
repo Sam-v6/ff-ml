@@ -1,0 +1,11 @@
+beautifulsoup4
+catboost
+matplotlib
+nfl_data_py
+numpy
+pandas
+scikit_learn
+scipy
+seaborn
+tensorflow
+xgboost
