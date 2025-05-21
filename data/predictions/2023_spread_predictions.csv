@@ -1,0 +1,286 @@
+week,home_team,away_team,actual_spread,predicted_spread,prediction_error,spread_line,vegas_prediction,vegas_correct,model_correct,model_beats_spread,model_beats_vegas
+1,WAS,ARI,4,1.2046806,-2.795319437980652,7.0,Home,Correct,Correct,Beats Vegas,Tie
+1,NYJ,BUF,6,1.2046806,-4.795319437980652,-2.5,Away,Incorrect,Correct,Beats Vegas,Beats Vegas
+1,ATL,CAR,14,1.2046806,-12.795319437980652,3.5,Home,Correct,Correct,Loses Vegas,Tie
+1,CLE,CIN,21,1.2046806,-19.79531943798065,-1.0,Away,Incorrect,Correct,Beats Vegas,Beats Vegas
+1,NYG,DAL,-40,1.2046806,41.20468056201935,-3.5,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+1,KC,DET,-1,1.2046806,2.204680562019348,4.0,Home,Incorrect,Incorrect,Beats Vegas,Tie
+1,CHI,GB,-18,1.2046806,19.204680562019348,1.0,Home,Incorrect,Incorrect,Loses Vegas,Tie
+1,BAL,HOU,16,1.2046806,-14.795319437980652,9.5,Home,Correct,Correct,Loses Vegas,Tie
+1,IND,JAX,-10,1.2046806,11.204680562019348,-4.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+1,SEA,LA,-17,1.2046806,18.204680562019348,4.5,Home,Incorrect,Incorrect,Beats Vegas,Tie
+1,DEN,LV,-1,1.2046806,2.204680562019348,3.0,Home,Incorrect,Incorrect,Beats Vegas,Tie
+1,LAC,MIA,-2,1.2046806,3.204680562019348,3.0,Home,Incorrect,Incorrect,Beats Vegas,Tie
+1,NE,PHI,-5,1.2046806,6.204680562019348,-3.5,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+1,PIT,SF,-23,1.2046806,24.204680562019348,-1.5,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+1,MIN,TB,-3,1.2046806,4.204680562019348,4.0,Home,Incorrect,Incorrect,Beats Vegas,Tie
+1,NO,TEN,1,1.2046806,0.2046805620193481,3.0,Home,Correct,Correct,Beats Vegas,Tie
+2,CIN,BAL,-3,-1.6253558,1.374644160270691,3.5,Home,Incorrect,Correct,Beats Vegas,Beats Vegas
+2,TB,CHI,10,7.8617887,-2.138211250305176,2.5,Home,Correct,Correct,Beats Vegas,Tie
+2,PIT,CLE,4,-5.412279,-9.41227912902832,-2.5,Away,Incorrect,Incorrect,Loses Vegas,Tie
+2,ATL,GB,1,-0.53954065,-1.5395406484603882,3.0,Home,Correct,Incorrect,Beats Vegas,Loses to Vegas
+2,HOU,IND,-11,-1.4397498,9.560250163078308,-1.0,Away,Correct,Correct,Beats Vegas,Tie
+2,JAX,KC,-8,-1.565088,6.4349119663238525,-3.5,Away,Correct,Correct,Loses Vegas,Tie
+2,TEN,LAC,3,2.177015,-0.8229849338531494,-2.5,Away,Incorrect,Correct,Beats Vegas,Beats Vegas
+2,BUF,LV,28,3.8998806,-24.1001193523407,7.5,Home,Correct,Correct,Loses Vegas,Tie
+2,NE,MIA,-7,2.479375,9.479374885559082,-2.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+2,PHI,MIN,6,3.810047,-2.189953088760376,6.0,Home,Correct,Correct,Loses Vegas,Tie
+2,CAR,NO,-3,0.20117648,3.201176479458809,-3.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+2,ARI,NYG,-3,10.586544,13.586544036865234,-5.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+2,DAL,NYJ,20,11.599611,-8.400388717651367,8.5,Home,Correct,Correct,Beats Vegas,Tie
+2,DET,SEA,-6,1.4723928,7.472392797470093,4.5,Home,Incorrect,Incorrect,Beats Vegas,Tie
+2,LA,SF,-7,2.0943172,9.094317197799684,-7.5,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+2,DEN,WAS,-2,5.3048472,7.304847240447998,4.0,Home,Incorrect,Incorrect,Loses Vegas,Tie
+3,DET,ATL,14,0.65546995,-13.344530045986176,3.0,Home,Correct,Correct,Loses Vegas,Tie
+3,WAS,BUF,-34,-2.9242918,31.075708150863647,-5.5,Away,Correct,Correct,Loses Vegas,Tie
+3,SEA,CAR,10,5.2724485,-4.727551460266113,5.0,Home,Correct,Correct,Beats Vegas,Tie
+3,KC,CHI,31,9.345385,-21.65461540222168,13.0,Home,Correct,Correct,Loses Vegas,Tie
+3,ARI,DAL,12,-8.3922615,-20.392261505126957,-11.5,Away,Incorrect,Incorrect,Beats Vegas,Tie
+3,MIA,DEN,50,3.288335,-46.71166491508484,6.0,Home,Correct,Correct,Loses Vegas,Tie
+3,JAX,HOU,-20,4.240878,24.24087810516357,7.5,Home,Incorrect,Incorrect,Beats Vegas,Tie
+3,BAL,IND,-3,5.2528906,8.252890586853027,7.5,Home,Incorrect,Incorrect,Beats Vegas,Tie
+3,MIN,LAC,-4,1.0500053,5.050005316734314,1.0,Home,Incorrect,Incorrect,Loses Vegas,Tie
+3,CIN,LA,3,-3.1509821,-6.150982141494751,3.0,Home,Correct,Incorrect,Loses Vegas,Loses to Vegas
+3,NYJ,NE,-5,0.03243362,5.032433621585369,-2.5,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+3,GB,NO,1,6.072402,5.072402000427246,-1.5,Away,Incorrect,Correct,Loses Vegas,Beats Vegas
+3,SF,NYG,18,10.2920475,-7.707952499389648,10.5,Home,Correct,Correct,Loses Vegas,Tie
+3,TB,PHI,-14,3.5602117,17.560211658477783,-6.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+3,LV,PIT,-5,4.3613434,9.361343383789062,3.0,Home,Incorrect,Incorrect,Loses Vegas,Tie
+3,CLE,TEN,24,3.0912607,-20.9087393283844,3.5,Home,Correct,Correct,Loses Vegas,Tie
+4,SF,ARI,19,9.390241,-9.609759330749512,15.0,Home,Correct,Correct,Loses Vegas,Tie
+4,JAX,ATL,16,-1.8215649,-17.82156491279602,3.5,Home,Correct,Incorrect,Loses Vegas,Loses to Vegas
+4,CLE,BAL,-25,4.580775,29.58077478408813,-2.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+4,TEN,CIN,24,3.2375765,-20.762423515319824,-2.5,Away,Incorrect,Correct,Beats Vegas,Beats Vegas
+4,CHI,DEN,-3,1.0149908,4.01499080657959,-3.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+4,GB,DET,-14,4.4457984,18.44579839706421,-2.5,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+4,NYJ,KC,-3,-4.23543,-1.235429763793945,-9.5,Away,Correct,Correct,Beats Vegas,Tie
+4,IND,LA,-6,1.0123285,7.012328505516052,-1.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+4,LAC,LV,7,8.8467,1.8466997146606443,7.0,Home,Correct,Correct,Loses Vegas,Tie
+4,BUF,MIA,28,1.5287657,-26.47123432159424,2.5,Home,Correct,Correct,Loses Vegas,Tie
+4,CAR,MIN,-8,0.26738834,8.267388343811035,-4.5,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+4,DAL,NE,35,7.7345715,-27.26542854309082,6.5,Home,Correct,Correct,Beats Vegas,Tie
+4,HOU,PIT,24,5.634968,-18.36503219604492,-3.0,Away,Incorrect,Correct,Beats Vegas,Beats Vegas
+4,NYG,SEA,-21,-3.8455076,17.154492378234863,-2.5,Away,Correct,Correct,Beats Vegas,Tie
+4,NO,TB,-17,2.1674447,19.16744470596313,4.0,Home,Incorrect,Incorrect,Beats Vegas,Tie
+4,PHI,WAS,3,8.384454,5.384453773498535,9.5,Home,Correct,Correct,Beats Vegas,Tie
+5,PIT,BAL,7,-5.9958,-12.995800018310549,-4.5,Away,Incorrect,Incorrect,Loses Vegas,Tie
+5,DET,CAR,18,8.298083,-9.701916694641112,9.5,Home,Correct,Correct,Loses Vegas,Tie
+5,WAS,CHI,-20,5.17147,25.17147016525269,6.0,Home,Incorrect,Incorrect,Beats Vegas,Tie
+5,ARI,CIN,-14,4.48015,18.48015022277832,-3.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+5,SF,DAL,32,2.5579784,-29.44202160835266,3.5,Home,Correct,Correct,Loses Vegas,Tie
+5,LV,GB,4,0.3814827,-3.618517309427261,1.0,Home,Correct,Correct,Loses Vegas,Tie
+5,ATL,HOU,2,-0.7672102,-2.767210185527801,2.5,Home,Correct,Incorrect,Loses Vegas,Loses to Vegas
+5,BUF,JAX,-5,12.36662,17.36662006378174,5.5,Home,Incorrect,Incorrect,Loses Vegas,Tie
+5,MIN,KC,-7,-4.001492,2.9985079765319824,-3.5,Away,Correct,Correct,Beats Vegas,Tie
+5,NE,NO,-34,-0.89007235,33.10992765426636,2.5,Home,Incorrect,Correct,Beats Vegas,Beats Vegas
+5,MIA,NYG,15,11.708892,-3.2911081314086914,12.5,Home,Correct,Correct,Loses Vegas,Tie
+5,DEN,NYJ,-10,3.2336679,13.233667850494385,2.5,Home,Incorrect,Incorrect,Loses Vegas,Tie
+5,LA,PHI,-9,0.63837874,9.638378739356996,-3.5,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+5,IND,TEN,7,1.0738842,-5.92611575126648,-2.5,Away,Incorrect,Correct,Beats Vegas,Beats Vegas
+6,LA,ARI,17,6.366343,-10.633656978607178,7.0,Home,Correct,Correct,Loses Vegas,Tie
+6,TEN,BAL,-8,-0.2767205,7.723279505968094,-5.5,Away,Correct,Correct,Loses Vegas,Tie
+6,MIA,CAR,21,11.412003,-9.587997436523438,14.0,Home,Correct,Correct,Loses Vegas,Tie
+6,LAC,DAL,-3,1.0396043,4.039604306221008,-1.5,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+6,KC,DEN,11,7.1568065,-3.843193531036377,10.5,Home,Correct,Correct,Loses Vegas,Tie
+6,TB,DET,-14,0.9240785,14.9240785241127,-3.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+6,JAX,IND,17,1.67805,-15.32194995880127,4.0,Home,Correct,Correct,Loses Vegas,Tie
+6,CHI,MIN,-6,-0.26558453,5.7344154715538025,-3.0,Away,Correct,Correct,Loses Vegas,Tie
+6,LV,NE,4,8.064277,4.064276695251465,3.0,Home,Correct,Correct,Loses Vegas,Tie
+6,HOU,NO,7,2.8251188,-4.174881219863892,-2.0,Away,Incorrect,Correct,Beats Vegas,Beats Vegas
+6,BUF,NYG,5,14.002402,9.002402305603027,15.5,Home,Correct,Correct,Beats Vegas,Tie
+6,NYJ,PHI,6,-2.8554068,-8.855406761169434,-6.5,Away,Incorrect,Incorrect,Beats Vegas,Tie
+6,CIN,SEA,4,-1.5861243,-5.586124300956726,3.0,Home,Correct,Incorrect,Loses Vegas,Loses to Vegas
+6,CLE,SF,2,-3.6658344,-5.665834426879883,-9.5,Away,Incorrect,Incorrect,Beats Vegas,Tie
+6,ATL,WAS,-8,5.0660853,13.06608533859253,1.5,Home,Incorrect,Incorrect,Loses Vegas,Tie
+7,SEA,ARI,10,6.82063,-3.1793699264526367,9.5,Home,Correct,Correct,Loses Vegas,Tie
+7,TB,ATL,-3,3.8257768,6.825776815414429,3.0,Home,Incorrect,Incorrect,Loses Vegas,Tie
+7,NE,BUF,4,-10.075987,-14.075986862182615,-7.5,Away,Incorrect,Incorrect,Loses Vegas,Tie
+7,IND,CLE,-1,2.1771994,3.177199363708496,-3.5,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+7,BAL,DET,32,1.5403666,-30.459633350372314,3.0,Home,Correct,Correct,Loses Vegas,Tie
+7,DEN,GB,2,-0.51149297,-2.511492967605591,1.5,Home,Correct,Incorrect,Loses Vegas,Loses to Vegas
+7,NO,JAX,-7,1.1778637,8.177863717079163,2.5,Home,Incorrect,Incorrect,Beats Vegas,Tie
+7,KC,LAC,14,5.413211,-8.58678913116455,5.5,Home,Correct,Correct,Loses Vegas,Tie
+7,CHI,LV,18,-0.36383343,-18.3638334274292,-2.5,Away,Incorrect,Incorrect,Beats Vegas,Tie
+7,PHI,MIA,14,-0.08601864,-14.0860186368227,3.0,Home,Correct,Incorrect,Loses Vegas,Loses to Vegas
+7,LA,PIT,-7,10.228228,17.228227615356445,3.5,Home,Incorrect,Incorrect,Loses Vegas,Tie
+7,MIN,SF,5,-5.439431,-10.439431190490724,-7.0,Away,Incorrect,Incorrect,Beats Vegas,Tie
+7,NYG,WAS,7,-2.2073221,-9.207322120666504,-3.0,Away,Incorrect,Incorrect,Beats Vegas,Tie
+8,TEN,ATL,5,3.9437416,-1.0562584400177002,-2.5,Away,Incorrect,Correct,Beats Vegas,Beats Vegas
+8,ARI,BAL,-7,-6.503615,0.4963850975036621,-9.5,Away,Correct,Correct,Beats Vegas,Tie
+8,LAC,CHI,17,3.4377136,-13.562286376953123,9.5,Home,Correct,Correct,Loses Vegas,Tie
+8,SF,CIN,-14,9.626634,23.626633644104004,4.0,Home,Incorrect,Incorrect,Loses Vegas,Tie
+8,SEA,CLE,4,4.8268495,0.8268494606018066,4.0,Home,Correct,Correct,Loses Vegas,Tie
+8,CAR,HOU,2,-5.924793,-7.924792766571045,-3.0,Away,Incorrect,Incorrect,Loses Vegas,Tie
+8,PIT,JAX,-10,-3.1303415,6.869658470153809,-2.5,Away,Correct,Correct,Beats Vegas,Tie
+8,DEN,KC,15,-10.657844,-25.657843589782715,-7.0,Away,Incorrect,Incorrect,Loses Vegas,Tie
+8,DAL,LA,23,3.7716033,-19.22839665412903,6.5,Home,Correct,Correct,Loses Vegas,Tie
+8,DET,LV,12,6.557007,-5.4429931640625,7.0,Home,Correct,Correct,Loses Vegas,Tie
+8,GB,MIN,-14,2.2678933,16.267893314361572,-1.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+8,MIA,NE,14,9.185879,-4.814121246337891,7.5,Home,Correct,Correct,Beats Vegas,Tie
+8,IND,NO,-11,2.187021,13.187021017074583,-2.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+8,NYG,NYJ,-3,-3.4428167,-0.4428167343139648,-3.0,Away,Correct,Correct,Loses Vegas,Tie
+8,WAS,PHI,-7,-6.50929,0.4907097816467285,-7.0,Away,Correct,Correct,Loses Vegas,Tie
+8,BUF,TB,6,8.995652,2.995652198791504,10.0,Home,Correct,Correct,Beats Vegas,Tie
+9,CLE,ARI,27,4.6735206,-22.32647943496704,13.0,Home,Correct,Correct,Loses Vegas,Tie
+9,CIN,BUF,6,-5.0687833,-11.068783283233644,1.5,Home,Correct,Incorrect,Loses Vegas,Loses to Vegas
+9,NO,CHI,7,5.0638595,-1.936140537261963,9.0,Home,Correct,Correct,Beats Vegas,Tie
+9,PHI,DAL,5,1.4695406,-3.530459403991699,3.5,Home,Correct,Correct,Loses Vegas,Tie
+9,CAR,IND,-14,-2.614658,11.385341882705688,-1.5,Away,Correct,Correct,Beats Vegas,Tie
+9,NYJ,LAC,-21,0.2628475,21.262847512960438,-3.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+9,GB,LA,17,0.9529857,-16.04701429605484,3.5,Home,Correct,Correct,Loses Vegas,Tie
+9,KC,MIA,7,0.12117728,-6.878822721540928,1.0,Home,Correct,Correct,Loses Vegas,Tie
+9,ATL,MIN,-3,0.20429076,3.2042907625436783,3.5,Home,Incorrect,Incorrect,Beats Vegas,Tie
+9,LV,NYG,24,5.130137,-18.86986303329468,1.0,Home,Correct,Correct,Beats Vegas,Tie
+9,BAL,SEA,34,5.584042,-28.415957927703857,6.0,Home,Correct,Correct,Loses Vegas,Tie
+9,HOU,TB,2,4.139623,2.1396231651306152,2.5,Home,Correct,Correct,Loses Vegas,Tie
+9,PIT,TEN,4,-0.9603824,-4.960382401943207,3.5,Home,Correct,Incorrect,Loses Vegas,Loses to Vegas
+9,NE,WAS,-3,-1.814622,1.1853779554367063,2.5,Home,Incorrect,Correct,Beats Vegas,Beats Vegas
+10,ARI,ATL,2,-0.51111335,-2.5111133456230164,-2.0,Away,Incorrect,Incorrect,Beats Vegas,Tie
+10,CHI,CAR,3,4.3938193,1.3938193321228027,3.0,Home,Correct,Correct,Loses Vegas,Tie
+10,BAL,CLE,-2,7.5493913,9.549391269683838,6.0,Home,Incorrect,Incorrect,Loses Vegas,Tie
+10,BUF,DEN,-2,9.407293,11.407293319702148,7.5,Home,Incorrect,Incorrect,Loses Vegas,Tie
+10,LAC,DET,-3,2.4322083,5.432208299636841,-2.5,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+10,PIT,GB,4,-0.20464067,-4.204640671610832,3.0,Home,Correct,Incorrect,Loses Vegas,Loses to Vegas
+10,CIN,HOU,-3,-0.90809697,2.091903030872345,5.5,Home,Incorrect,Correct,Beats Vegas,Beats Vegas
+10,NE,IND,-4,-2.6818573,1.318142652511597,-1.0,Away,Correct,Correct,Beats Vegas,Tie
+10,MIN,NO,8,2.4416568,-5.558343172073364,-3.0,Away,Incorrect,Correct,Beats Vegas,Beats Vegas
+10,DAL,NYG,32,15.004147,-16.995853424072266,17.5,Home,Correct,Correct,Loses Vegas,Tie
+10,LV,NYJ,4,2.2516634,-1.7483365535736084,-1.0,Away,Incorrect,Correct,Beats Vegas,Beats Vegas
+10,JAX,SF,-31,-1.7515377,29.248462319374084,-3.0,Away,Correct,Correct,Loses Vegas,Tie
+10,TB,TEN,14,2.0535111,-11.946488857269289,2.5,Home,Correct,Correct,Loses Vegas,Tie
+10,SEA,WAS,3,5.087336,2.0873360633850098,6.0,Home,Correct,Correct,Beats Vegas,Tie
+11,HOU,ARI,5,9.765561,4.765561103820801,5.5,Home,Correct,Correct,Loses Vegas,Tie
+11,DET,CHI,5,9.094151,4.094150543212891,8.0,Home,Correct,Correct,Loses Vegas,Tie
+11,BAL,CIN,14,7.8002205,-6.199779510498047,4.0,Home,Correct,Correct,Beats Vegas,Tie
+11,CAR,DAL,-23,-6.668087,16.331912994384766,-11.0,Away,Correct,Correct,Loses Vegas,Tie
+11,GB,LAC,3,0.40540045,-2.594599545001984,-3.0,Away,Incorrect,Correct,Beats Vegas,Beats Vegas
+11,MIA,LV,7,6.748604,-0.2513961791992187,14.0,Home,Correct,Correct,Beats Vegas,Tie
+11,DEN,MIN,1,-2.4056141,-3.405614137649536,2.5,Home,Correct,Incorrect,Loses Vegas,Loses to Vegas
+11,WAS,NYG,-12,9.333855,21.33385467529297,7.5,Home,Incorrect,Incorrect,Loses Vegas,Tie
+11,BUF,NYJ,26,9.428915,-16.57108497619629,8.0,Home,Correct,Correct,Beats Vegas,Tie
+11,KC,PHI,-4,2.0442193,6.044219255447388,2.5,Home,Incorrect,Incorrect,Beats Vegas,Tie
+11,CLE,PIT,3,5.787239,2.7872390747070312,2.5,Home,Correct,Correct,Loses Vegas,Tie
+11,LA,SEA,1,0.92717546,-0.0728245377540588,2.5,Home,Correct,Correct,Beats Vegas,Tie
+11,SF,TB,13,9.369811,-3.6301889419555664,13.5,Home,Correct,Correct,Loses Vegas,Tie
+11,JAX,TEN,20,3.6279948,-16.372005224227905,6.5,Home,Correct,Correct,Loses Vegas,Tie
+12,LAC,BAL,-10,-4.7034583,5.296541690826416,-3.0,Away,Correct,Correct,Beats Vegas,Tie
+12,PHI,BUF,3,0.7265099,-2.273490071296692,2.5,Home,Correct,Correct,Loses Vegas,Tie
+12,TEN,CAR,7,8.372942,1.372941970825195,3.5,Home,Correct,Correct,Beats Vegas,Tie
+12,MIN,CHI,-2,6.7884245,8.788424491882324,3.0,Home,Incorrect,Incorrect,Loses Vegas,Tie
+12,DEN,CLE,17,-0.8381576,-17.83815759420395,1.5,Home,Correct,Incorrect,Loses Vegas,Loses to Vegas
+12,DET,GB,-7,5.1720877,12.17208766937256,8.5,Home,Incorrect,Incorrect,Beats Vegas,Tie
+12,HOU,JAX,-3,4.295545,7.2955451011657715,-1.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+12,LV,KC,-14,-4.3813696,9.618630409240724,-9.0,Away,Correct,Correct,Loses Vegas,Tie
+12,ARI,LA,-23,-0.8762945,22.123705506324768,-3.0,Away,Correct,Correct,Loses Vegas,Tie
+12,NYJ,MIA,-21,-5.4829936,15.517006397247314,-9.5,Away,Correct,Correct,Loses Vegas,Tie
+12,NYG,NE,3,0.47692186,-2.523078143596649,-4.5,Away,Incorrect,Correct,Beats Vegas,Beats Vegas
+12,ATL,NO,9,1.1383786,-7.861621379852295,-2.0,Away,Incorrect,Correct,Beats Vegas,Beats Vegas
+12,CIN,PIT,-6,2.3136485,8.313648462295532,-2.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+12,SEA,SF,-18,-7.129037,10.870963096618652,-7.0,Away,Correct,Correct,Beats Vegas,Tie
+12,IND,TB,7,1.6690056,-5.330994367599487,2.5,Home,Correct,Correct,Loses Vegas,Tie
+12,DAL,WAS,35,10.2906475,-24.709352493286133,13.0,Home,Correct,Correct,Loses Vegas,Tie
+13,PIT,ARI,-14,6.9506197,20.9506196975708,6.0,Home,Incorrect,Incorrect,Loses Vegas,Tie
+13,NYJ,ATL,-5,-2.7416956,2.2583043575286865,-2.0,Away,Correct,Correct,Beats Vegas,Tie
+13,TB,CAR,3,8.4840975,5.484097480773926,4.0,Home,Correct,Correct,Loses Vegas,Tie
+13,JAX,CIN,-3,6.0446796,9.044679641723633,10.0,Home,Incorrect,Incorrect,Beats Vegas,Tie
+13,LA,CLE,17,1.925436,-15.07456398010254,3.5,Home,Correct,Correct,Loses Vegas,Tie
+13,HOU,DEN,5,7.4355946,2.4355945587158203,3.5,Home,Correct,Correct,Loses Vegas,Tie
+13,NO,DET,-5,0.021093315,5.021093314513564,-4.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+13,TEN,IND,-3,3.5491323,6.549132347106934,-1.5,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+13,GB,KC,8,-1.0975664,-9.09756636619568,-5.5,Away,Incorrect,Incorrect,Beats Vegas,Tie
+13,NE,LAC,-6,-3.3695788,2.6304211616516118,-4.5,Away,Correct,Correct,Loses Vegas,Tie
+13,WAS,MIA,-30,-7.330409,22.669590950012207,-8.5,Away,Correct,Correct,Loses Vegas,Tie
+13,DAL,SEA,6,11.024525,5.024524688720703,9.5,Home,Correct,Correct,Loses Vegas,Tie
+13,PHI,SF,-23,-1.4016492,21.598350763320923,-3.0,Away,Correct,Correct,Loses Vegas,Tie
+14,KC,BUF,-3,-0.30626464,2.693735361099243,2.0,Home,Incorrect,Correct,Beats Vegas,Beats Vegas
+14,NO,CAR,22,9.643309,-12.356691360473633,5.5,Home,Correct,Correct,Beats Vegas,Tie
+14,LAC,DEN,-17,7.2505336,24.25053358078003,3.0,Home,Incorrect,Incorrect,Loses Vegas,Tie
+14,CHI,DET,15,-4.100577,-19.100576877593998,-3.0,Away,Incorrect,Incorrect,Loses Vegas,Tie
+14,NYG,GB,2,-5.213898,-7.213898181915283,-6.0,Away,Incorrect,Incorrect,Beats Vegas,Tie
+14,NYJ,HOU,24,-5.575623,-29.575623035430908,-3.5,Away,Incorrect,Incorrect,Loses Vegas,Tie
+14,CIN,IND,20,0.6996007,-19.30039930343628,3.0,Home,Correct,Correct,Loses Vegas,Tie
+14,CLE,JAX,4,1.4425735,-2.5574264526367188,2.5,Home,Correct,Correct,Loses Vegas,Tie
+14,BAL,LA,6,8.845139,2.8451385498046875,7.5,Home,Correct,Correct,Loses Vegas,Tie
+14,LV,MIN,-3,-2.6626422,0.337357759475708,-3.0,Away,Correct,Correct,Loses Vegas,Tie
+14,PIT,NE,-3,5.700751,8.700750827789307,6.0,Home,Incorrect,Incorrect,Beats Vegas,Tie
+14,DAL,PHI,20,8.054654,-11.945345878601074,3.5,Home,Correct,Correct,Beats Vegas,Tie
+14,SF,SEA,12,13.053745,1.0537452697753906,14.5,Home,Correct,Correct,Beats Vegas,Tie
+14,ATL,TB,-4,2.772533,6.772532939910889,1.5,Home,Incorrect,Incorrect,Loses Vegas,Tie
+14,MIA,TEN,-1,13.148576,14.14857578277588,14.0,Home,Incorrect,Incorrect,Beats Vegas,Tie
+15,CAR,ATL,2,-4.6085424,-6.608542442321777,-3.0,Away,Incorrect,Incorrect,Loses Vegas,Tie
+15,JAX,BAL,-16,-4.275875,11.724124908447266,-4.0,Away,Correct,Correct,Beats Vegas,Tie
+15,CLE,CHI,3,4.4801116,1.480111598968506,3.0,Home,Correct,Correct,Loses Vegas,Tie
+15,BUF,DAL,21,-1.2510568,-22.251056790351868,2.0,Home,Correct,Incorrect,Loses Vegas,Loses to Vegas
+15,DET,DEN,25,5.801642,-19.198358058929443,5.5,Home,Correct,Correct,Beats Vegas,Tie
+15,TEN,HOU,-3,0.85574394,3.855743944644928,3.0,Home,Incorrect,Incorrect,Beats Vegas,Tie
+15,NE,KC,-10,-5.5146875,4.485312461853027,-10.0,Away,Correct,Correct,Loses Vegas,Tie
+15,LV,LAC,42,-1.3102267,-43.31022667884827,3.0,Home,Correct,Incorrect,Loses Vegas,Loses to Vegas
+15,CIN,MIN,3,2.4343088,-0.5656912326812744,3.0,Home,Correct,Correct,Loses Vegas,Tie
+15,NO,NYG,18,11.507603,-6.492397308349609,6.0,Home,Correct,Correct,Beats Vegas,Tie
+15,MIA,NYJ,30,13.111034,-16.888965606689453,7.5,Home,Correct,Correct,Beats Vegas,Tie
+15,SEA,PHI,3,-0.9711218,-3.9711217880249023,-5.0,Away,Incorrect,Incorrect,Beats Vegas,Tie
+15,IND,PIT,17,3.264965,-13.735034942626951,1.5,Home,Correct,Correct,Beats Vegas,Tie
+15,ARI,SF,-16,-7.6799316,8.320068359375,-12.5,Away,Correct,Correct,Loses Vegas,Tie
+15,GB,TB,-14,5.4620767,19.462076663970947,4.0,Home,Incorrect,Incorrect,Loses Vegas,Tie
+15,LA,WAS,8,8.8069315,0.8069314956665039,6.5,Home,Correct,Correct,Beats Vegas,Tie
+16,CHI,ARI,11,5.527223,-5.472776889801025,4.5,Home,Correct,Correct,Beats Vegas,Tie
+16,SF,BAL,-14,4.91534,18.915339946746823,6.5,Home,Incorrect,Incorrect,Beats Vegas,Tie
+16,LAC,BUF,-2,-6.6116896,-4.611689567565918,-13.0,Away,Correct,Correct,Beats Vegas,Tie
+16,PIT,CIN,23,-0.7754772,-23.77547717094421,-3.0,Away,Incorrect,Incorrect,Beats Vegas,Tie
+16,HOU,CLE,-14,3.7751527,17.775152683258057,-3.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+16,MIA,DAL,2,2.7130945,0.7130944728851318,1.5,Home,Correct,Correct,Loses Vegas,Tie
+16,MIN,DET,-6,1.9310691,7.931069135665893,-2.5,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+16,CAR,GB,-3,-4.023967,-1.0239667892456057,-3.5,Away,Correct,Correct,Loses Vegas,Tie
+16,ATL,IND,19,2.3324633,-16.667536735534668,3.0,Home,Correct,Correct,Loses Vegas,Tie
+16,TB,JAX,18,3.1834671,-14.816532850265505,-2.0,Away,Incorrect,Correct,Beats Vegas,Beats Vegas
+16,KC,LV,-6,8.393631,14.393630981445312,11.0,Home,Incorrect,Incorrect,Beats Vegas,Tie
+16,DEN,NE,-3,5.6191206,8.619120597839355,7.0,Home,Incorrect,Incorrect,Beats Vegas,Tie
+16,LA,NO,8,3.4578302,-4.542169809341431,4.0,Home,Correct,Correct,Loses Vegas,Tie
+16,PHI,NYG,8,10.896057,2.89605712890625,14.0,Home,Correct,Correct,Beats Vegas,Tie
+16,TEN,SEA,-3,1.3137046,4.313704609870911,-3.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+16,NYJ,WAS,2,2.760999,0.7609989643096924,3.0,Home,Correct,Correct,Beats Vegas,Tie
+17,PHI,ARI,-4,10.279593,14.279593467712402,12.0,Home,Incorrect,Incorrect,Beats Vegas,Tie
+17,CHI,ATL,20,0.8789091,-19.12109088897705,3.0,Home,Correct,Correct,Loses Vegas,Tie
+17,JAX,CAR,26,8.414777,-17.58522319793701,3.5,Home,Correct,Correct,Beats Vegas,Tie
+17,KC,CIN,8,7.9046474,-0.0953526496887207,7.5,Home,Correct,Correct,Beats Vegas,Tie
+17,DAL,DET,1,7.8948774,6.894877433776856,5.5,Home,Correct,Correct,Loses Vegas,Tie
+17,MIN,GB,-23,1.8554292,24.85542917251587,1.0,Home,Incorrect,Incorrect,Loses Vegas,Tie
+17,DEN,LAC,7,2.0296657,-4.97033429145813,3.5,Home,Correct,Correct,Loses Vegas,Tie
+17,NYG,LA,-1,-4.884278,-3.884277820587158,-6.0,Away,Correct,Correct,Beats Vegas,Tie
+17,IND,LV,3,3.0265374,0.0265374183654785,3.5,Home,Correct,Correct,Beats Vegas,Tie
+17,BAL,MIA,37,3.3213208,-33.67867922782898,3.0,Home,Correct,Correct,Beats Vegas,Tie
+17,BUF,NE,6,12.221303,6.22130298614502,15.0,Home,Correct,Correct,Beats Vegas,Tie
+17,TB,NO,-10,2.8994799,12.899479866027832,2.5,Home,Incorrect,Incorrect,Loses Vegas,Tie
+17,CLE,NYJ,17,7.9507093,-9.049290657043455,6.5,Home,Correct,Correct,Beats Vegas,Tie
+17,SEA,PIT,-7,3.2820573,10.282057285308838,4.5,Home,Incorrect,Incorrect,Beats Vegas,Tie
+17,WAS,SF,-17,-9.051622,7.94837760925293,-14.0,Away,Correct,Correct,Loses Vegas,Tie
+17,HOU,TEN,23,2.9821987,-20.01780128479004,5.0,Home,Correct,Correct,Loses Vegas,Tie
+18,NO,ATL,31,4.7038713,-26.29612874984741,3.5,Home,Correct,Correct,Beats Vegas,Tie
+18,MIA,BUF,-7,2.3741896,9.374189615249634,-2.5,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+18,GB,CHI,8,6.112834,-1.8871660232543943,2.5,Home,Correct,Correct,Beats Vegas,Tie
+18,CIN,CLE,17,1.1467457,-15.853254318237305,7.5,Home,Correct,Correct,Loses Vegas,Tie
+18,WAS,DAL,-28,-5.9396257,22.06037425994873,-13.0,Away,Correct,Correct,Loses Vegas,Tie
+18,LV,DEN,13,3.5015578,-9.49844217300415,3.5,Home,Correct,Correct,Beats Vegas,Tie
+18,IND,HOU,-4,0.49304855,4.493048548698425,-1.5,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+18,TEN,JAX,8,-0.7290916,-8.729091584682465,-3.5,Away,Incorrect,Incorrect,Beats Vegas,Tie
+18,LAC,KC,-1,-4.013918,-3.013917922973633,3.5,Home,Incorrect,Correct,Beats Vegas,Beats Vegas
+18,SF,LA,-1,11.903393,12.903392791748049,5.5,Home,Incorrect,Incorrect,Loses Vegas,Tie
+18,DET,MIN,10,5.6084223,-4.39157772064209,3.5,Home,Correct,Correct,Beats Vegas,Tie
+18,NE,NYJ,-14,3.722575,17.722574949264526,2.5,Home,Incorrect,Incorrect,Loses Vegas,Tie
+18,NYG,PHI,17,-4.6707664,-21.670766353607178,-4.5,Away,Incorrect,Incorrect,Loses Vegas,Tie
+18,BAL,PIT,-7,11.542242,18.5422420501709,-3.0,Away,Correct,Incorrect,Loses Vegas,Loses to Vegas
+18,ARI,SEA,-1,-0.1562837,0.8437162935733795,-2.5,Away,Correct,Correct,Beats Vegas,Tie
+18,CAR,TB,-9,-3.6410582,5.3589417934417725,-5.0,Away,Correct,Correct,Loses Vegas,Tie
+19,HOU,CLE,31,3.5140967,-27.48590326309204,-2.5,Away,Incorrect,Correct,Beats Vegas,Beats Vegas
+19,DAL,GB,-16,7.9190435,23.91904354095459,7.0,Home,Incorrect,Incorrect,Loses Vegas,Tie
+19,DET,LA,1,4.800357,3.800356864929199,3.5,Home,Correct,Correct,Loses Vegas,Tie
+19,KC,MIA,19,1.6676699,-17.332330107688904,4.5,Home,Correct,Correct,Loses Vegas,Tie
+19,TB,PHI,23,3.511206,-19.488794088363647,-2.5,Away,Incorrect,Correct,Beats Vegas,Beats Vegas
+19,BUF,PIT,14,9.298658,-4.70134162902832,10.0,Home,Correct,Correct,Loses Vegas,Tie
+20,SF,GB,3,8.09498,5.094980239868164,10.5,Home,Correct,Correct,Beats Vegas,Tie
+20,BAL,HOU,24,8.495442,-15.504557609558104,10.0,Home,Correct,Correct,Loses Vegas,Tie
+20,BUF,KC,-3,4.3582177,7.358217716217041,2.5,Home,Incorrect,Incorrect,Loses Vegas,Tie
+20,DET,TB,8,3.7642696,-4.235730409622192,6.0,Home,Correct,Correct,Loses Vegas,Tie
+21,SF,DET,3,6.6428895,3.642889499664306,7.5,Home,Correct,Correct,Beats Vegas,Tie
+21,BAL,KC,-7,5.773279,12.773279190063477,4.5,Home,Incorrect,Incorrect,Loses Vegas,Tie
+22,KC,SF,3,-1.1384163,-4.138416290283203,-1.5,Away,Incorrect,Incorrect,Beats Vegas,Tie
