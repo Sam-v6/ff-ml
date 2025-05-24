@@ -91,8 +91,53 @@ def query_db():
     with engine.connect() as conn:
         df = pd.read_sql(text("SELECT * FROM player_stats;"), conn)
 
+    print('-------------------------------------------------')
+    print('Flavor of SQL data:')
     print(df.head())
 
+    return df
 
-grab_online_data()
-query_db()
+
+def generate_rb_features(df, window=3):
+    # Filter to just RBs
+    df_rb = df[df['position'] == 'RB'].copy()
+
+    # Sort by player and week
+    df_rb = df_rb.sort_values(['player_id', 'season', 'week'])
+
+    # Avoid divide-by-zero for carries and receptions
+    df_rb['yards_per_carry'] = np.where(
+        df_rb['carries'] != 0, df_rb['rushing_yards'] / df_rb['carries'], np.nan
+    )
+
+    df_rb['yards_per_reception'] = np.where(
+        df_rb['receptions'] != 0, df_rb['receiving_yards'] / df_rb['receptions'], np.nan
+    )
+    # Define columns to roll
+    roll_cols = [
+        "carries", "rushing_yards", "rushing_tds", "rushing_fumbles",
+        "receptions", "targets", "receiving_yards", "receiving_tds",
+        "receiving_fumbles", "fantasy_points_ppr", "yards_per_carry", "yards_per_reception"
+    ]
+
+    # Group by player and compute rolling average of past `window` games
+    for col in roll_cols:
+        df_rb[f'{col}_last{window}'] = (
+            df_rb.groupby('player_id')[col]
+                 .shift(1)  # Don't include current week
+                 .rolling(window)
+                 .mean()
+                 .reset_index(0, drop=True)
+        )
+
+    # Drop any rows where we don't have enough history
+    df_rb = df_rb.dropna(subset=[f'{col}_last{window}' for col in roll_cols])
+
+    return df_rb
+
+
+# Main
+#grab_online_data()
+df = query_db()
+df_rb = generate_rb_features(df)
+print(df_rb.head())
